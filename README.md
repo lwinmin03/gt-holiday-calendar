@@ -20,6 +20,6 @@ A responsive, interactive React component for displaying Myanmar's public holida
    ```text
    src/
    ├── components/
-   │   └── MyanmarCalendar.tsx
+   │   └── myanmar-calendar.tsx
    ├── services/
    │   └── api.ts
